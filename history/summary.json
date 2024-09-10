@@ -4,17 +4,37 @@
     "url": "https://webzaytsev.ru",
     "icon": "https://icons.duckduckgo.com/ip3/webzaytsev.ru.ico",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
+    "uptime": "99.12%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.12%",
+    "time": 1250,
+    "timeDay": 1250,
+    "timeWeek": 1250,
+    "timeMonth": 1250,
+    "timeYear": 1250,
+    "dailyMinutesDown": {
+      "2024-09-10": 0
+    }
+  },
+  {
+    "name": "Test Broken Site",
+    "url": "https://thissitedoesnotexist.koj.co",
+    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
+    "slug": "test-broken-site",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1330,
-    "timeDay": 1330,
-    "timeWeek": 1330,
-    "timeMonth": 1330,
-    "timeYear": 1330,
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {}
   }
 ]
