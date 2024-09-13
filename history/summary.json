@@ -4,17 +4,19 @@
     "url": "https://webzaytsev.ru",
     "icon": "https://icons.duckduckgo.com/ip3/webzaytsev.ru.ico",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1338,
-    "timeDay": 1351,
-    "timeWeek": 1338,
-    "timeMonth": 1338,
-    "timeYear": 1338,
-    "dailyMinutesDown": {}
+    "time": 2135,
+    "timeDay": 4931,
+    "timeWeek": 2135,
+    "timeMonth": 2135,
+    "timeYear": 2135,
+    "dailyMinutesDown": {
+      "2024-09-13": 0
+    }
   }
 ]
