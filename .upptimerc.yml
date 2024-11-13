@@ -13,8 +13,8 @@ sites:
     url: https://bestsurprise.ru
   - name: HorseSmart
     url: https://horsesmart.store
-  - name: BACK HorseSmart
-    url: $BACK_HORSESMART
+  # - name: BACK HorseSmart
+  #   url: $BACK_HORSESMART
   - name: VPN HorseSmart
     url: $VPN_HORSESMART
   - name: GIT HorseSmart
