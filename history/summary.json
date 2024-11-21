@@ -110,19 +110,19 @@
     "url": "$VPN_HORSESMART",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-horse-smart",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 867,
-    "timeDay": 724,
-    "timeWeek": 925,
-    "timeMonth": 867,
-    "timeYear": 867,
+    "status": "up",
+    "uptime": "99.34%",
+    "uptimeDay": "94.67%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.34%",
+    "time": 845,
+    "timeDay": 677,
+    "timeWeek": 887,
+    "timeMonth": 845,
+    "timeYear": 845,
     "dailyMinutesDown": {
-      "2024-11-21": 0
+      "2024-11-21": 77
     }
   },
   {
