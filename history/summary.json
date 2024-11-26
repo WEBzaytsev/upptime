@@ -96,19 +96,19 @@
     "url": "https://horsesmart.store",
     "icon": "https://icons.duckduckgo.com/ip3/horsesmart.store.ico",
     "slug": "horse-smart",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1430,
-    "timeDay": 1334,
-    "timeWeek": 1604,
-    "timeMonth": 1430,
-    "timeYear": 1430,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1431,
+    "timeDay": 1372,
+    "timeWeek": 1586,
+    "timeMonth": 1431,
+    "timeYear": 1431,
     "dailyMinutesDown": {
-      "2024-11-26": 0
+      "2024-11-26": 8
     }
   },
   {
