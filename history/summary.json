@@ -37,19 +37,19 @@
     "url": "https://zigmund.online/journal",
     "icon": "https://icons.duckduckgo.com/ip3/zigmund.online.ico",
     "slug": "zhurnal-zigmund-online",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1417,
-    "timeDay": 1167,
-    "timeWeek": 1273,
-    "timeMonth": 1417,
-    "timeYear": 1417,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 1414,
+    "timeDay": 1262,
+    "timeWeek": 1284,
+    "timeMonth": 1414,
+    "timeYear": 1414,
     "dailyMinutesDown": {
-      "2024-11-29": 0
+      "2024-11-29": 26
     }
   },
   {
