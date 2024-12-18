@@ -176,19 +176,19 @@
     "url": "https://expotion.tech",
     "icon": "https://icons.duckduckgo.com/ip3/expotion.tech.ico",
     "slug": "expotion-rn-d",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3570,
-    "timeDay": 3138,
-    "timeWeek": 3741,
-    "timeMonth": 3589,
-    "timeYear": 3570,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 3600,
+    "timeDay": 3671,
+    "timeWeek": 3852,
+    "timeMonth": 3625,
+    "timeYear": 3600,
     "dailyMinutesDown": {
-      "2024-12-18": 0
+      "2024-12-18": 15
     }
   }
 ]
