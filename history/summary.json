@@ -77,18 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/katz.ru.ico",
     "slug": "shtolczman-i-kacz",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.95%",
     "time": 1823,
     "timeDay": 5160,
     "timeWeek": 2410,
     "timeMonth": 1813,
     "timeYear": 1823,
     "dailyMinutesDown": {
-      "2025-01-12": 7,
       "2024-12-01": 22,
       "2024-11-24": 19,
       "2024-11-15": 1
@@ -183,18 +182,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vaultwarden-horse-smart",
     "status": "down",
-    "uptime": "96.38%",
+    "uptime": "96.36%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "68.86%",
-    "uptimeMonth": "92.84%",
-    "uptimeYear": "96.38%",
+    "uptimeWeek": "68.70%",
+    "uptimeMonth": "92.80%",
+    "uptimeYear": "96.36%",
     "time": 757,
     "timeDay": 0,
     "timeWeek": 751,
     "timeMonth": 728,
     "timeYear": 757,
     "dailyMinutesDown": {
-      "2025-01-12": 1259,
+      "2025-01-12": 1275,
       "2025-01-11": 1440,
       "2025-01-10": 440
     }
@@ -204,9 +203,9 @@
     "url": "https://expotion.tech",
     "icon": "https://icons.duckduckgo.com/ip3/expotion.tech.ico",
     "slug": "expotion-rn-d",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
@@ -216,6 +215,7 @@
     "timeMonth": 3653,
     "timeYear": 3594,
     "dailyMinutesDown": {
+      "2025-01-12": 0,
       "2024-12-18": 15
     }
   }
