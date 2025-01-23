@@ -17,7 +17,7 @@ sites:
   #   url: $BACK_HORSESMART
   - name: VPN HorseSmart
     url: $VPN_HORSESMART
-  - name: GIT HorseSmart
+  - name: GIT RoyalSoft
     url: $GIT_HORSESMART
   - name: Vaultwarden HorseSmart
     url: $VAULT_HORSESMART
