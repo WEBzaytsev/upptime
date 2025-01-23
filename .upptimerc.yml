@@ -19,7 +19,7 @@ sites:
     url: $VPN_HORSESMART
   - name: GIT RoyalSoft
     url: $GIT_HORSESMART
-  - name: Vaultwarden HorseSmart
+  - name: Vaultwarden RoyalSoft
     url: $VAULT_HORSESMART
   - name: Expotion RnD
     url: https://expotion.tech
