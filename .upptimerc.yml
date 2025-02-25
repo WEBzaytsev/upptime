@@ -12,7 +12,7 @@ sites:
   - name: КондиPRO
     url: https://bestsurprise.ru
   - name: HorseSmart
-    url: https://horsesmart.store
+    url: https://admin.horsesmart.store
   # - name: BACK HorseSmart
   #   url: $BACK_HORSESMART
   - name: VPN HorseSmart
