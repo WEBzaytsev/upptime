@@ -1,7 +1,7 @@
 url: $VAULT_HORSESMART
-status: down
-code: 502
-responseTime: 1205
-lastUpdated: 2025-05-15T20:45:31.751Z
+status: up
+code: 200
+responseTime: 1056
+lastUpdated: 2025-05-15T20:52:39.313Z
 startTime: 2025-01-23T11:33:30.265Z
 generator: Upptime <https://github.com/upptime/upptime>
