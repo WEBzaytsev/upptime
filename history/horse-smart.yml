@@ -1,7 +1,7 @@
 url: https://horsesmart.store
-status: up
-code: 200
-responseTime: 1296
-lastUpdated: 2025-05-18T23:10:54.319Z
+status: down
+code: 500
+responseTime: 695
+lastUpdated: 2025-05-19T19:40:43.107Z
 startTime: 2024-11-13T15:26:11.427Z
 generator: Upptime <https://github.com/upptime/upptime>
