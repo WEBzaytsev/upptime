@@ -11,7 +11,7 @@ sites:
     url: $VPN_HORSESMART
   - name: GIT RoyalSoft
     url: $GIT_HORSESMART
-  - name: Vaultwarden RoyalSoft
+  - name: Менеджер паролей RoyalSoft
     url: $VAULT_HORSESMART
 
 status-website:
